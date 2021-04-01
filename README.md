@@ -1,5 +1,5 @@
 
-## Python APIs: Collecting weather/geomapping information from trusted web sources/databases such as Google & then visualizing on heat maps.
+## Python APIs: Collecting weather/geomapping information from trusted web sources/databases (ex. Google) & then visualizing on heat maps.
 
 NOTE: For cybersecurity reasons, I have omitted my Google API key. Please obtain your own to run my script. 
 
