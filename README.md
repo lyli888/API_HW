@@ -1,5 +1,7 @@
 ## Part I - WeatherPy
 
+NOTE: For cyber security reasons, I have omitted my Google API Key. Please obtain your own to run my script. It requires installation of Python anaconda & Python environment file [PythonData.txt] as well as the referenced import libraries.
+
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 The first requirement is to create a series of scatter plots to showcase the following relationships:
