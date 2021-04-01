@@ -1,6 +1,9 @@
-## Part I - WeatherPy
 
-NOTE: For cyber security reasons, I have omitted my Google API Key. Please obtain your own to run my script. It requires installation of Python anaconda & Python environment file [PythonData.txt] as well as the referenced import libraries.
+## Python APIs: Collecting weather/geomapping information from trusted web sources/databases such as Google & then visualizing on heat maps.
+
+NOTE: For cybersecurity reasons, I have omitted my Google API key. Please obtain your own to run my script. In addition, it requires installation of Python anaconda, PythonData environment [PythonData.txt] as well as the referenced imported libraries.
+
+## Part I - WeatherPy
 
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
