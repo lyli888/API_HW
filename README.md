@@ -1,7 +1,7 @@
 
 ## Python APIs: Collecting weather/geomapping information from trusted web sources/databases (ex. Google Maps) & then visualizing on heat maps.
 
-NOTE: For cybersecurity reasons, I have omitted my Google API key. Please obtain your own to run script. 
+### For cybersecurity reasons, I have omitted my Google API key. Please obtain your own to run script. See Screenshots/Images (/WeatherPy) under WeatherPy/VacationPy for project results.
 
 ## Part I - WeatherPy
 
