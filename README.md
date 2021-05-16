@@ -1,7 +1,7 @@
 
 ## Python APIs: Collecting weather/geo-mapping data from trusted web sources/databases (ex. Google Maps) to visualize on heat maps.
 
-### For cybersecurity reasons, I have omitted my Google API key. Please obtain your own free [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key) to run script. See [Map Screenshots](/VacationPy/) & [Output Files](/WeatherPy/output_data/) for project results.
+### Please obtain your own free [Google Maps API Key](https://developers.google.com/maps/documentation/javascript/get-api-key) to run script. See [Map Screenshots](/VacationPy/) & [Output Files](/WeatherPy/output_data/) for project results.
 
 ## Part I - WeatherPy
 
